@@ -144,9 +144,8 @@ Successfully completed the **Graduate Rotational Internship Program (GRIP)** in 
 - **Offer Verification Code:** `A7Z5TQ2KNE`
 - **Verify at:** [truecertificates.com/verification](https://truecertificates.com/verification/)
 
-> 💡 Add your certificate image files (`certificate_offer.png` and `certificate_completion.png`) to the root of this repository so they render correctly in the README above.
 
----
+
 
 ## 🔗 Additional Links
 
