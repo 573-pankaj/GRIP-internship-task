@@ -16,7 +16,7 @@ This repository contains all the tasks completed as part of the Graduate Rotatio
 | `Task_01.ipynb` | Prediction using Supervised ML (Linear Regression) | Minor Project |
 | `Task_02.ipynb` | Prediction using Unsupervised ML (K-Means Clustering) | Minor Project |
 | `Task_3.ipynb`  | Exploratory Data Analysis — Retail | Minor Project |
-| `Task_06.ipynb` | Prediction using Decision Tree Algorithm | Major Project |
+| `Task_04.ipynb` | Prediction using Decision Tree Algorithm | Major Project |
 
 ---
 
@@ -85,7 +85,7 @@ This repository contains all the tasks completed as part of the Graduate Rotatio
 
 ---
 
-## 📌 Task 6 — Prediction Using Decision Tree Algorithm (Major Project)
+## 📌 Task 4 — Prediction Using Decision Tree Algorithm (Major Project)
 
 **Objective:** Build a Decision Tree classifier on the Iris dataset and visualize it graphically, such that it can accurately classify the species of a new, unseen flower sample.
 
